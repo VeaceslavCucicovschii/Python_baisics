@@ -1,2 +1,2 @@
 # Last exercise
-![image](https://user-images.githubusercontent.com/104380929/177529100-64be6575-8826-4339-9650-f4cb10596d2d.png)
+![image](https://user-images.githubusercontent.com/104380929/178233167-3aa31384-dfc9-44a8-8677-0b716119b9e2.png)
