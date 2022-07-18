@@ -101,9 +101,6 @@ while True:
   killer_3_coord_x, killer_3_coord_y = killer_at_border(killer_3_coord_x, killer_3_coord_y)
   killer_4_coord_x, killer_4_coord_y = killer_at_border(killer_4_coord_x, killer_4_coord_y)
 
-  
-  system("cls")  # linux -> "clear"
-
   steps += 1
   if robot_coord_x > lenght_x or robot_coord_y > lenght_y \
       or robot_coord_x < 1 or robot_coord_y < 1 \
@@ -116,6 +113,8 @@ while True:
   elif steps == 30:
     result = True
     break
+  
+  system("cls")  # linux -> "clear"
 
 print("")
 if result == True:
