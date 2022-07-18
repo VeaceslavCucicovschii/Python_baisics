@@ -120,5 +120,5 @@ print("")
 if result == True:
   print("Your steps = 30, YOU WON")
 else:
-  print("YOU LOST\nYour steps =", steps)
+  print("YOU LOSE\nYour steps =", steps)
 print("")
