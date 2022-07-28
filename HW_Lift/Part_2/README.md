@@ -1,1 +1,1 @@
-# So primit cam mare, dar merge corect :)
+# E mult cod, dar merge corect :)
