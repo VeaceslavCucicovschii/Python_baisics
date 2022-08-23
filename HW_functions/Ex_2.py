@@ -2,18 +2,15 @@ from os import system
 system('cls')
 
 def inputInt(message):
-  print(message, end='')
-  n = int(input())
+  n = int(input(message))
   return n
 
 def inputFloat(message):
-  print(message, end='')
-  n = float(input())
+  n = float(input(message))
   return n
 
-def inputBoolean(message, end=''):
-  print(message)
-  n = bool(input())
+def inputBoolean(message):
+  n = input(message) == 'True'
   return n
 
 n = inputInt("Enter the first integer: ")
